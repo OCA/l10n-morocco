@@ -1,6 +1,6 @@
-[![Runbot Status](https://runbot.odoo-community.org/runbot/badge/flat/215/8.0.svg)](https://runbot.odoo-community.org/runbot/repo/github-com-oca-l10n-morocco-215)
-[![Build Status](https://travis-ci.org/OCA/l10n-morocco.svg?branch=8.0)](https://travis-ci.org/OCA/l10n-morocco)
-[![Coverage Status](https://coveralls.io/repos/OCA/l10n-morocco/badge.svg?branch=8.0&service=github)](https://coveralls.io/github/OCA/l10n-morocco?branch=8.0)
+[![Runbot Status](https://runbot.odoo-community.org/runbot/badge/flat/215/9.0.svg)](https://runbot.odoo-community.org/runbot/repo/github-com-oca-l10n-morocco-215)
+[![Build Status](https://travis-ci.org/OCA/l10n-morocco.svg?branch=9.0)](https://travis-ci.org/OCA/l10n-morocco)
+[![Coverage Status](https://coveralls.io/repos/OCA/l10n-morocco/badge.svg?branch=9.0&service=github)](https://coveralls.io/github/OCA/l10n-morocco?branch=9.0)
 [![Code Climate](https://codeclimate.com/github/OCA/l10n-morocco/badges/gpa.svg)](https://codeclimate.com/github/OCA/l10n-morocco)
 
 # Moroccan Localization 
