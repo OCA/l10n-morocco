@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<openerp>
+    <data noupdate="1">
+
+        <!-- Categories des permis -->
+        <record model="driver.license.category" id="driver_license_A1">
+            <field name="name">A1</field>
+        </record>
+        <record model="driver.license.category" id="driver_license_A">
+            <field name="name">A</field>
+        </record>
+        <record model="driver.license.category" id="driver_license_B">
+            <field name="name">B</field>
+        </record>
+        <record model="driver.license.category" id="driver_license_C">
+            <field name="name">C</field>
+        </record>
+        <record model="driver.license.category" id="driver_license_D">
+            <field name="name">D</field>
+        </record>
+        <record model="driver.license.category" id="driver_license_EB">
+            <field name="name">EB</field>
+        </record>
+        <record model="driver.license.category" id="driver_license_EC">
+            <field name="name">EC</field>
+        </record>
+        <record model="driver.license.category" id="driver_license_ED">
+            <field name="name">ED</field>
+        </record>
+    </data>
+</openerp>
