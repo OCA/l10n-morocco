@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding='UTF-8'?>
+<openerp>
+<data>
+        <!-- Check driver's licenses: alert if expiration -->
+        <record forcecreate="True" model="ir.cron" id="driver_license_cron">
+            <field name="name">Driver's licenses checking</field>
+            <field eval="True" name="active"/>            
+            <field name="interval_number">1</field>
+            <field name="interval_type">days</field>
+            <field name="numbercall">-1</field>
+            <field name="model" eval="'driver.license'"/>
+            <field name="function" eval="'check_driver_licenses'"/>
+        </record>
+
+</data>
+</openerp>
