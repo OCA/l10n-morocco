@@ -40,10 +40,6 @@ help us smashing it by providing a detailed and welcomed `feedback
 Credits
 =======
 
-Images
-------
-
-
 
 Contributors
 ------------
