@@ -2,9 +2,9 @@
    :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
    :alt: License: AGPL-3
 
-==============
+========================
 Morocco States (Régions)
-==============
+========================
 
 This module populate the table res_country_state with the Moroccan states (Régions).
 
@@ -23,7 +23,6 @@ No configuration required.
 Known issues / Roadmap
 ======================
 
-* ...
 
 Bug Tracker
 ===========
