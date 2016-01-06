@@ -2,7 +2,7 @@
 ##############################################################################
 #
 #    l10n MOROCCO States module for OpenERP
-#    Copyright (C) 2015-2016 AGORA DEVELOPPEMENT 
+#    Copyright (C) 2015-2016 AGORA DEVELOPPEMENT
 #    (http://www.agoradeveloppement.com)
 #    @author Mohamed HABOU
 #
