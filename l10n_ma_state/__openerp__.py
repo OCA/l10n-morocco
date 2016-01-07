@@ -26,28 +26,7 @@
     'summary': 'Populate Database with the 12 Moroccan States (Régions)',
     'version': '8.0.0.1.0',
     'category': 'Morocco Localization',
-    'description': """
-Populate Database with Moroccan States (Région)
-=============================================
-
-Feature:
---------
-    * Populate the table res_country_state with the Moroccan states """
-    """(named 'Région').
-
-Technical information:
-----------------------
-    * Use 3166-2:MA codifications without country prefix (more detail """
-    """http://fr.wikipedia.org/wiki/ISO_3166-2:MA);
-    * Mise à jour des régions """
-    """@ https://fr.wikipedia.org/wiki/R%C3%A9gions_du_Maroc;
-
-Copyright, Authors and Licence:
--------------------------------
-    * Copyright: 2015-2016, Agora Developpement;
-    * Author: Mohamed HABOU;
-    * Licence: AGPL-3 (http://www.gnu.org/licenses/);""",
-    'author': "Agora Developpement,Odoo Community Association (OCA)",
+    'author': "Agora Developpement, Odoo Community Association (OCA)",
     'website': 'http://www.agoradeveloppement.com',
     'license': 'AGPL-3',
     'depends': [
