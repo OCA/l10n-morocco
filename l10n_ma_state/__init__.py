@@ -1,9 +1,10 @@
-# -*- encoding: utf-8 -*-
+# -*- coding: utf-8 -*-
 ##############################################################################
 #
-#    l10n FR States module for OpenERP
-#    Copyright (C) 2013-2014 GRAP (http://www.grap.coop)
-#    @author Sylvain LE GAL (https://twitter.com/legalsylvain)
+#    l10n MOROCCO States module for OpenERP
+#    Copyright (C) 2015-2016 AGORA DEVELOPPEMENT
+#    (http://www.agoradeveloppement.com)
+#    @author Mohamed HABOU
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as
