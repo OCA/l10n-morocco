@@ -35,7 +35,7 @@
     'data': [
         'data/res_country_state_data.yml',
     ],
-    'installable': True,
+    'installable': False,
     'images': [
         'static/src/img/screenshots/1.png'
     ],
