@@ -8,6 +8,12 @@
 Modules to run Odoo in Morocco.
 
 [//]: # (addons)
+Unported addons
+---------------
+addon | version | summary
+--- | --- | ---
+[l10n_ma_state](l10n_ma_state/) | 9.0.0.1.0 (unported) | Populate Database with the 12 Moroccan States (Régions)
+
 [//]: # (end addons)
 
 Translation Status
