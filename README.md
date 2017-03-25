@@ -8,6 +8,7 @@
 Modules to run Odoo in Morocco.
 
 [//]: # (addons)
+
 Available addons
 ----------------
 addon | version | summary
