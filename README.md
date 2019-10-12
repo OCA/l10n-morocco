@@ -3,7 +3,7 @@
 [![Coverage Status](https://coveralls.io/repos/OCA/l10n-morocco/badge.svg?branch=13.0&service=github)](https://coveralls.io/github/OCA/l10n-morocco?branch=13.0)
 [![Code Climate](https://codeclimate.com/github/OCA/l10n-morocco/badges/gpa.svg)](https://codeclimate.com/github/OCA/l10n-morocco)
 
-# Moroccan Localization 
+# Moroccan Localization
 
 Modules to run Odoo in Morocco.
 
